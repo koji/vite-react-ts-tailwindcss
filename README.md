@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Tailwind CSS
 
 <div style="display:flex; grid-gap:2rem; justify-content:center; margin-top:2rem; margin-bottom:2rem;">
 <img src="./.assets/vite-svgrepo-com.svg" width="50px" />
